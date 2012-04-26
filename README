@@ -5,7 +5,7 @@ example:
 import "fmt"
 import "os"
 import "io/ioutil"
-import "./ftp"
+import "github.com/victorcoder/ftp.go"
 
 func main() {
     // new ftp
